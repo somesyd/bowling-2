@@ -1,0 +1,7 @@
+# frozen_string_literal: true
+
+def say_hello
+  puts 'Hello World!'
+end
+
+say_hello

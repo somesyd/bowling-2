@@ -1,0 +1,7 @@
+/.bundle
+Gemfile.lock
+.rspec
+
+# VS Code config files
+.editorconfig
+/.vscode
